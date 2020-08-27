@@ -9,11 +9,11 @@ And so after an hour of frustration over constant failure in getting SCSS to wor
 I decided to create one based off Parcel bundler.
 
 ## Usage
-clone the repository inside of a preferred project directory (assuming you have git installed)
+clone the repository inside of a preferred project directory (assuming you have already inatalled git and node)
 `git clone https://github.com/landloord/ReactParcelScss.git`
 
-You may want to rename the directory from #### ReactParcelScss
-cd into your newly renamed directory and execute 
+You may want to rename the directory from **ReactParcelScss** into something esle (your project name). 
+ cd into your newly renamed directory and execute 
 `npm install` in the directory from a terminal to install athe required node modules.
 
 ## Updating
